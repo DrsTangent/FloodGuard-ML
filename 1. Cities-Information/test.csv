@@ -1,0 +1,161 @@
+,City,Province,SQKM
+0,Bagh,Azad Kashmir,694.4169311523438
+1,Bhimber,Azad Kashmir,1212.947143554688
+2,Jhelum Valley,Azad Kashmir,681.7645874023438
+3,Haveli,Azad Kashmir,550.8921508789062
+4,Kotli,Azad Kashmir,1599.118408203125
+5,Mirpur,Azad Kashmir,896.9297485351562
+6,Muzaffarabad,Azad Kashmir,1361.01220703125
+7,Neelum,Azad Kashmir,3137.469482421875
+8,Poonch,Azad Kashmir,719.5692138671875
+9,Sudhnoti,Azad Kashmir,567.8623046875
+10,Awaran,Balochistan,24989.6015625
+11,Barkhan,Balochistan,3515.4423828125
+12,Chagai,Balochistan,44476.75
+13,Dera Bugti,Balochistan,10294.1142578125
+14,Gwadar,Balochistan,11574.3955078125
+15,Harnai,Balochistan,3062.968017578125
+16,Jaffarabad,Balochistan,1701.834716796875
+17,Jhal Magsi,Balochistan,3860.093505859375
+18,Kachhi,Balochistan,5363.912109375
+19,Kalat,Balochistan,10179.7705078125
+20,Kech,Balochistan,24419.265625
+21,Kharan,Balochistan,8215.9033203125
+22,Khuzdar,Balochistan,30954.900390625
+23,Killa Abdullah,Balochistan,2992.958740234375
+24,Killa Saifullah,Balochistan,12403.857421875
+25,Kohlu,Balochistan,7728.05224609375
+26,Lasbela,Balochistan,14057.361328125
+27,Lehri,Balochistan,3285.291748046875
+28,Loralai,Balochistan,3796.602783203125
+29,Mastung,Balochistan,4712.72607421875
+30,Musakhel,Balochistan,5900.701171875
+31,Nasirabad,Balochistan,3224.903564453125
+32,Nushki,Balochistan,5863.1640625
+33,Panjgur,Balochistan,17582.38671875
+34,Pishin,Balochistan,6085.87646484375
+35,Quetta,Balochistan,3759.734619140625
+36,Sherani,Balochistan,3050.54345703125
+37,Sibi,Balochistan,4965.9189453125
+38,Sohbatpur,Balochistan,786.8741455078125
+39,Washuk,Balochistan,39031.17578125
+40,Zhob,Balochistan,11936.6376953125
+41,Ziarat,Balochistan,3271.315673828125
+42,Shaheed Sikandarabad,Balochistan,3706.43505859375
+43,Duki,Balochistan,4336.470703125
+44,Chaman,Balochistan,1635.511962890625
+45,Astore,Gilgit Baltistan,5132.46044921875
+46,Diamir,Gilgit Baltistan,4215.47607421875
+47,Ghanche,Gilgit Baltistan,8676.416015625
+48,Ghizer,Gilgit Baltistan,4323.53173828125
+49,Gilgit,Gilgit Baltistan,4016.0263671875
+50,Hunza,Gilgit Baltistan,11419.0732421875
+51,Skardu,Gilgit Baltistan,2118.951416015625
+52,Nagar,Gilgit Baltistan,3022.154296875
+53,Kharmang,Gilgit Baltistan,5971.0810546875
+54,Shigar,Gilgit Baltistan,8513.35546875
+55,Darel,Gilgit Baltistan,1650.92626953125
+56,Tangir,Gilgit Baltistan,1102.335205078125
+57,Gupis-Yasin,Gilgit Baltistan,7726.1103515625
+58,Rondu,Gilgit Baltistan,1881.902099609375
+59,Islamabad,Islamabad,901.5328369140625
+60,Abbottabad,Khyber Pakhtunkhwa,1639.516357421875
+61,Bajaur,Khyber Pakhtunkhwa,1366.309936523438
+62,Bannu,Khyber Pakhtunkhwa,2027.750366210938
+63,Batagram,Khyber Pakhtunkhwa,1485.17919921875
+64,Buner,Khyber Pakhtunkhwa,1774.047485351562
+65,Charsadda,Khyber Pakhtunkhwa,999.1356811523438
+66,Chitral Lower,Khyber Pakhtunkhwa,6077.26416015625
+67,Chitral Upper,Khyber Pakhtunkhwa,8615.412109375
+68,D. I. Khan,Khyber Pakhtunkhwa,9028.552734375
+69,Hangu,Khyber Pakhtunkhwa,1372.01611328125
+70,Haripur,Khyber Pakhtunkhwa,1953.89990234375
+71,Karak,Khyber Pakhtunkhwa,2648.38623046875
+72,Khyber,Khyber Pakhtunkhwa,2747.42626953125
+73,Kohat,Khyber Pakhtunkhwa,3438.498779296875
+74,Kohistan Lower,Khyber Pakhtunkhwa,823.48388671875
+75,Kohistan Upper,Khyber Pakhtunkhwa,5484.7255859375
+76,Kolai Palas Kohistan,Khyber Pakhtunkhwa,1229.715454101562
+77,Kurram,Khyber Pakhtunkhwa,3398.38037109375
+78,Lakki Marwat,Khyber Pakhtunkhwa,3339.82177734375
+79,Lower Dir,Khyber Pakhtunkhwa,1604.744018554688
+80,Malakand,Khyber Pakhtunkhwa,905.6954956054688
+81,Mansehra,Khyber Pakhtunkhwa,4032.01416015625
+82,Mardan,Khyber Pakhtunkhwa,1636.408569335938
+83,Mohmand,Khyber Pakhtunkhwa,2261.952880859375
+84,North Waziristan,Khyber Pakhtunkhwa,4929.67822265625
+85,Nowshera,Khyber Pakhtunkhwa,1725.712158203125
+86,Orakzai,Khyber Pakhtunkhwa,1369.891479492188
+87,Peshawar,Khyber Pakhtunkhwa,1539.0712890625
+88,Shangla,Khyber Pakhtunkhwa,1384.205932617188
+89,South Waziristan,Khyber Pakhtunkhwa,6224.40673828125
+90,Swabi,Khyber Pakhtunkhwa,1480.462890625
+91,Swat,Khyber Pakhtunkhwa,5348.3291015625
+92,Tank,Khyber Pakhtunkhwa,2818.779541015625
+93,Tor Ghar,Khyber Pakhtunkhwa,454.3811950683594
+94,Upper Dir,Khyber Pakhtunkhwa,3731.8212890625
+95,Attock,Punjab,6910.04931640625
+96,Bahawalnagar,Punjab,8576.77734375
+97,Bahawalpur,Punjab,23966.123046875
+98,Bhakkar,Punjab,8473.1259765625
+99,Chakwal,Punjab,6487.5068359375
+100,Chiniot,Punjab,2602.01953125
+101,Dera Ghazi Khan,Punjab,11765.677734375
+102,Faisalabad,Punjab,5947.431640625
+103,Gujranwala,Punjab,3619.832763671875
+104,Gujrat,Punjab,3168.33056640625
+105,Hafizabad,Punjab,2277.34423828125
+106,Jhang,Punjab,6345.11572265625
+107,Jhelum,Punjab,3568.7978515625
+108,Kasur,Punjab,3986.665771484375
+109,Khanewal,Punjab,4355.75048828125
+110,Khushab,Punjab,6599.6005859375
+111,Lahore,Punjab,1729.893188476562
+112,Leiah,Punjab,6412.72119140625
+113,Lodhran,Punjab,2666.34033203125
+114,Mandi Bahauddin,Punjab,2741.666259765625
+115,Mianwali,Punjab,5960.29833984375
+116,Multan,Punjab,3648.2451171875
+117,Muzaffargarh,Punjab,7688.07177734375
+118,Nankana Sahib,Punjab,2194.61279296875
+119,Narowal,Punjab,2376.313720703125
+120,Okara,Punjab,4437.23681640625
+121,Pakpattan,Punjab,2884.2841796875
+122,Rahim Yar Khan,Punjab,12848.7294921875
+123,Rajanpur,Punjab,12584.64453125
+124,Rawalpindi,Punjab,5225.9677734375
+125,Sahiwal,Punjab,3228.72021484375
+126,Sargodha,Punjab,5845.86083984375
+127,Sheikhupura,Punjab,3628.430419921875
+128,Sialkot,Punjab,3068.19580078125
+129,Toba Tek Singh,Punjab,3081.52587890625
+130,Vehari,Punjab,4499.55712890625
+131,Badin,Sindh,6574.99462890625
+132,Central Karachi,Sindh,65.14430236816406
+133,Dadu,Sindh,8017.5107421875
+134,East Karachi,Sindh,202.9221038818359
+135,Ghotki,Sindh,6366.90673828125
+136,Hyderabad,Sindh,1018.909912109375
+137,Jacobabad,Sindh,2691.198486328125
+138,Jamshoro,Sindh,11230.8662109375
+139,Kambar Shahdad Kot,Sindh,5597.19189453125
+140,Kashmore,Sindh,2614.887451171875
+141,Khairpur,Sindh,16005.5537109375
+142,Korangi Karachi,Sindh,104.2920532226562
+143,Larkana,Sindh,1921.040893554688
+144,Malir Karachi,Sindh,2726.861083984375
+145,Matiari,Sindh,1457.94140625
+146,Mirpur Khas,Sindh,3463.162109375
+147,Naushahro Feroze,Sindh,3036.863037109375
+148,Sanghar,Sindh,10158.3212890625
+149,Shaheed Benazir Abad,Sindh,4582.23779296875
+150,Shikarpur,Sindh,2551.82861328125
+151,South Karachi,Sindh,507.6268005371094
+152,Sujawal,Sindh,8687.5185546875
+153,Sukkur,Sindh,5178.71826171875
+154,Tando Allahyar,Sindh,1544.215576171875
+155,Tando Muhammad Khan,Sindh,1676.886962890625
+156,Tharparkar,Sindh,19682.93359375
+157,Thatta,Sindh,7630.46142578125
+158,Umer Kot,Sindh,5489.58544921875
+159,West Karachi,Sindh,241.7661895751953

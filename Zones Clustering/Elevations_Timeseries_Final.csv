@@ -1,0 +1,126 @@
+City Name,Province,Above 2500,Below 40,All Elevation
+Badin,Sindh,0,7286.466667,7286.466667
+Central Karachi,Sindh,0,37.25490196,70.12156863
+Dadu,Sindh,0,1111.360784,9123.356863
+East Karachi,Sindh,0,91.33333333,226.3333333
+Ghotki,Sindh,0,0,7352.356863
+Hyderabad,Sindh,0,1029.694118,1101.529412
+Jacobabad,Sindh,0,0,3238.541176
+Jamshoro,Sindh,0,1657.223529,12059.1451
+Kashmore,Sindh,0,0,3119.223529
+Khairpur,Sindh,0,997.1568627,17918.5451
+Larkana,Sindh,0,0,2153.011765
+Matiari,Sindh,0,1773.235294,1773.235294
+Mirpur Khas,Sindh,0,3753.160784,3753.160784
+Naushahro Feroze,Sindh,0,385.1686275,3176.317647
+Sanghar,Sindh,0,8848.752941,11026.35294
+Shikarpur,Sindh,0,0,2964.517647
+South Karachi,Sindh,0,97.2745098,97.2745098
+Sujawal,Sindh,0,9351.054902,9351.054902
+Sukkur,Sindh,0,0,5803.643137
+Tando Allahyar,Sindh,0,1646.643137,1646.643137
+Tando Muhammad Khan,Sindh,0,1948.996078,1949.156863
+Tharparkar,Sindh,0,7919.019608,21910.50588
+Thatta,Sindh,0,6720.603922,8981.258824
+West Karachi,Sindh,0,24.21960784,208.8
+Umerkot,Sindh,0,4062.54902,6342.435294
+Qambar Shahdadkot,Sindh,0,15,6148.156863
+Malir,Sindh,0,293.427451,2920.094118
+Attock,Punjab,0,0,8389.960784
+Bahawalnagar,Punjab,0,0,10099.19216
+Bahawalpur,Punjab,0,0,27449.78824
+Bhakkar,Punjab,0,0,10040.13725
+Chakwal,Punjab,0,0,3981.854902
+Chiniot,Punjab,0,0,3075.482353
+Dera Ghazi Khan,Punjab,0,0,10562.17647
+Faisalabad,Punjab,0,0,6976.980392
+Gujranwala,Punjab,0,0,2894.87451
+Gujrat,Punjab,0,0,3558.509804
+Hafizabad,Punjab,0,0,2682.192157
+Jhang,Punjab,0,0,7267.360784
+Jhelum,Punjab,0,0,4319.403922
+Kasur,Punjab,0,0,4405.298039
+Khanewal,Punjab,0,0,5021.403922
+Khushab,Punjab,0,0,7698.254902
+Lahore,Punjab,0,0,2117.576471
+Lodhran,Punjab,0,0,3073.643137
+Mandi Bahauddin,Punjab,0,0,3284.266667
+Mianwali,Punjab,0,0,7126.109804
+Multan,Punjab,0,0,4220.862745
+Muzaffargarh,Punjab,0,0,5204.305882
+Nankana Sahib,Punjab,0,0,2606.576471
+Narowal,Punjab,0,0,2750.45098
+Okara,Punjab,0,0,5182.635294
+Pakpattan,Punjab,0,0,3120.992157
+Rajanpur,Punjab,0,0,15031.29804
+Rawalpindi,Punjab,0,0,5358.403922
+Sahiwal,Punjab,0,0,3754.717647
+Sargodha,Punjab,0,0,7043.345098
+Sheikhupura,Punjab,0,0,4268.52549
+Sialkot,Punjab,0,0,3622.262745
+Toba Tek Singh,Punjab,0,0,3822.066667
+Vehari,Punjab,0,0,5196.976471
+Talagang,Punjab,0,0,3692.847059
+Layyah,Punjab,0,0,7461.443137
+Taunsa,Punjab,0,0,3088.890196
+Kot Addu,Punjab,0,0,3683.239216
+Dera Ismail Khan,Punjab,67.94901961,0,11081.38431
+Rahim Yar Khan,Punjab,0,0,14684.14902
+Nawabshah,Punjab,0,4462.172549,4854.760784
+Wazirabad,Punjab,0,0,1397.101961
+Islamabad,Islamabad,0,0,1156.529412
+Awaran,Balochistan,0,435.7254902,28793.92549
+Barkhan,Balochistan,0,0,4701.662745
+Chagai,Balochistan,0,0,45366.38039
+Gwadar,Balochistan,0,8034.866667,13084.44314
+Kech,Balochistan,0,794.1333333,26307.78824
+Khuzdar,Balochistan,0,0,25924.05098
+Lasbela,Balochistan,0,4221.631373,17814.73333
+Musakhel,Balochistan,268.1372549,0,509.7647059
+Panjgur,Balochistan,0,0,20134.97647
+Chaman,Balochistan,6219920,9738310,1.43E+08
+Bagh,Azad Kashmir,55.00392157,0,758.1058824
+Bhimber,Azad Kashmir,0,0,1500.364706
+Jhelum Valley,Azad Kashmir,259.9058824,0,936.2941176
+Haveli,Azad Kashmir,291.627451,0,809.1137255
+Kotli,Azad Kashmir,0,0,1849.270588
+Mirpur,Azad Kashmir,0,0,1242.827451
+Muzaffarabad,Azad Kashmir,151.5960784,0,1379.062745
+Poonch,Azad Kashmir,629.0862745,0,2022.05098
+Astore,Gilgit Baltistan,5293.392157,0,5614.631373
+Ghanche,Gilgit Baltistan,7201.694118,0,7326.596078
+Gilgit,Gilgit Baltistan,4177.937255,0,5194.584314
+Hunza,Gilgit Baltistan,14198.26275,0,14324.62745
+Skardu,Gilgit Baltistan,8798.886275,0,9353.764706
+Nagar,Gilgit Baltistan,4033.92549,0,4186.188235
+Kharmang,Gilgit Baltistan,3248.407843,0,3285.74902
+Shigar,Gilgit Baltistan,9006.321569,0,9362.831373
+Abbottabad,Khyber Pakhtunkhwa,18,0,2096.337255
+Bajaur,Khyber Pakhtunkhwa,21.87843137,0,1667.352941
+Bannu,Khyber Pakhtunkhwa,0,0,2442.109804
+Buner,Khyber Pakhtunkhwa,3.749019608,0,2104.658824
+Charsadda,Khyber Pakhtunkhwa,0,0,1191.654902
+Chitral Lower,Khyber Pakhtunkhwa,4894.596078,0,5686.305882
+Hangu,Khyber Pakhtunkhwa,0,0,1575.227451
+Haripur,Khyber Pakhtunkhwa,0,0,2247.058824
+Karak,Khyber Pakhtunkhwa,0,0,3192.670588
+Khyber,Khyber Pakhtunkhwa,226.4431373,0,3395.678431
+Kohat,Khyber Pakhtunkhwa,0,0,4186
+Kurram,Khyber Pakhtunkhwa,496.4666667,0,4100.909804
+Lakki Marwat,Khyber Pakhtunkhwa,0,0,3911.701961
+Lower Dir,Khyber Pakhtunkhwa,35.68235294,0,2095.745098
+Malakand,Khyber Pakhtunkhwa,0,0,1132.952941
+Mansehra,Khyber Pakhtunkhwa,2333.580392,0,4996.964706
+Mardan,Khyber Pakhtunkhwa,0,0,1995.301961
+Mohmand,Khyber Pakhtunkhwa,0,0,2691.380392
+North Waziristan,Khyber Pakhtunkhwa,442.9176471,0,5904.188235
+Nowshera,Khyber Pakhtunkhwa,0,0,2167.129412
+Orakzai,Khyber Pakhtunkhwa,2.874509804,0,1662.419608
+Peshawar,Khyber Pakhtunkhwa,0,0,1725.796078
+Shangla,Khyber Pakhtunkhwa,211.1960784,0,1699.67451
+Swabi,Khyber Pakhtunkhwa,0,0,1780.8
+Swat,Khyber Pakhtunkhwa,3778.803922,0,6619.12549
+Tank,Khyber Pakhtunkhwa,0,0,3400.717647
+Upper Dir,Khyber Pakhtunkhwa,1998.490196,0,3223.623529
+Upper Kohistan,Khyber Pakhtunkhwa,5221.427451,0,6641.898039
+Kolai-Palas,Khyber Pakhtunkhwa,990.9882353,0,1441.137255
